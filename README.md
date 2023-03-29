@@ -1,2 +1,2 @@
-# projict_2
+# project_2
 测试从远程克隆
